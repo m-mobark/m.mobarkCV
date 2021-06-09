@@ -1,0 +1,33 @@
+.photo {
+	border-radius: 5rem;
+	margin-top: -100px;
+}
+
+.profile {
+	border-radius: 2rem;
+	position: absolute;
+	margin: 10rem 0 4rem 0;
+	text-align: center;
+	/* max-width: 360px;
+	max-height: 80%; */
+	/* display: block; */
+
+	justify-self: space-between;
+	cursor: pointer;
+	background-color: rgb(243, 240, 240);
+}
+
+.info {
+  
+	
+	text-align: center;
+	font-size: 17;
+	font-family: serif;
+	margin: 1rem 13px -20px 0;
+}
+.stackoverfllow{
+    color: rgb(236, 146, 81);
+}
+.Githab{
+    color: rgb(41, 41, 40);
+}
